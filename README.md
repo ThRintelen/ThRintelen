@@ -49,10 +49,6 @@ Want to know more about me? [Check out my blog.](www.traperto.com/author/thorste
 
 ## 📣 How about a quote before you go?
 
-> Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.
+> Wer nicht mit der Zeit geht, der geht mit der Zeit.
 >
-> <p>- Erin Hannon</p>
-
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
+> <p>- Thorsten Rintelen</p>
